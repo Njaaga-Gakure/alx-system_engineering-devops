@@ -9,3 +9,5 @@
 3-listfiles contains the script that display current directory contents in a long format
 
 4-listmorefiles contains the script that display current directory contents, including hidden files in the long format
+
+5-listfilesdigitonly contains the script that displays current directory contents, including hidden files in the long format with user and group IDs displayed numerically
