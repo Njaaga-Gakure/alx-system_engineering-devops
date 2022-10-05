@@ -15,3 +15,5 @@
 6-firstdirectory contains the script that creates a directory named my_first_directory in the /tmp/ directory
 
 7-movethatfile contains the script that moves the file betty from /tmp/ to /tmp/my_first_directory
+
+8-firstdelete contains the script that deletes the file betty that is in /tmp/my_first_directory 
